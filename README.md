@@ -22,8 +22,8 @@ At **CodeCraft Developments**, we specialize in building custom applications, sc
 
 ## 📈 GitHub Stats  
 
-![CodeCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)  
+![CodeCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCraft-Developments&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraft-Developments&layout=compact&theme=radical)  
 
 ---
 
