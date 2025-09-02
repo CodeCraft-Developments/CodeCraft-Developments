@@ -16,8 +16,7 @@ At **CodeCraft Developments**, we specialize in building custom applications, sc
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS-005C84?style=for-the-badge&logo=css&logoColor=white)  
 
 ---
