@@ -24,7 +24,7 @@ At **CodeCraft Developments**, we specialize in building custom applications, sc
 
 ## 📈 GitHub Stats  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="Friskky1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Friskky1" alt="CodeCraft-Developments" /> </p>
 
 ![CodeCraft's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeCraft-Developments&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeCraft-Developments&layout=compact&theme=radical)  
