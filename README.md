@@ -34,7 +34,7 @@ At **CodeCraft Developments**, we specialize in building custom applications, sc
 ## 📬 Get in Touch  
 
 - 📧 Email: *codecraftdevelopment24@gmail.com*  
-- 💬 Discord: *https://discord.gg/codecraft*  
+- 💬 Discord: *https://discord.gg/SrYDjdWJXX*  
 
 ---
 
